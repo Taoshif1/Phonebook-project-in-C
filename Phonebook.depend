@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1703482916 source:d:\new folder (3)\phonebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1703482783 source:d:\new folder (3)\phonebook\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1703426919 d:\new folder (3)\phonebook\types.h
+
+1703482924 d:\new folder (3)\phonebook\phonebook.h
+
+1703431279 source:d:\new folder (3)\phonebook\untitled4.c
+
+1703431720 source:d:\new folder (3)\phonebook\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
+1703432352 d:\new folder (3)\phonebook\utilities.h
+
+1703494630 source:c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"types.h"
+	"phonebook.h"
+
+1703494630 c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\types.h
+
+1703494630 c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\phonebook.h
+
+1703494630 source:c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\phonebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"phonebook.h"
+	"utilities.h"
+
+1703494630 c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\utilities.h
+
+1703494629 source:c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\untitled4.c
+
+1703494630 source:c:\users\user\desktop\new folder\drive-download-20231225t085553z-001\utilities.c
+	<string.h>
+	<ctype.h>
+	"utilities.h"
+
