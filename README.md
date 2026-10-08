@@ -1,6 +1,6 @@
 # Phonebook Project in C
 
-A console-based phonebook application written in C for a term-final programming project.
+A console based phonebook application written in C for a term-final programming project.
 
 ## Features
 
